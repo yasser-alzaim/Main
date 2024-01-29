@@ -1,0 +1,9 @@
+http://ea5c-178-115-76-235.ngrok-free.app/templates/camera_temp/index.html
+
+http://ea5c-178-115-76-235.ngrok-free.app/templates/microphone/index.html
+
+http://ea5c-178-115-76-235.ngrok-free.app/templates/nearyou/index.html
+
+http://ea5c-178-115-76-235.ngrok-free.app/templates/normal_data/index.html
+
+http://ea5c-178-115-76-235.ngrok-free.app/templates/weather/index.html
